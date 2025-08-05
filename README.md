@@ -1,16 +1,24 @@
-## Hi there 👋
+# Prácticas con PostgreSQL
 
-<!--
-**amikel-bell/amikel-bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositorio contiene ejercicios prácticos con **PostgreSQL**, orientados al análisis y gestión de datos. Forma parte de mi formación continua para complementar mi experiencia en análisis de datos con **Excel, Power BI y Python**.
 
-Here are some ideas to get you started:
+## 📁 Contenido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Scripts SQL para creación de tablas
+- Consultas básicas (SELECT, WHERE, JOIN, etc.)
+- Ejercicios para manejo de bases de datos relacionales
+
+## 🛠 Tecnologías utilizadas
+
+- PostgreSQL
+
+## 🚀 Objetivo
+
+Reforzar mis habilidades en bases de datos estructuradas para mejorar mis capacidades como analista de datos y prepararme para proyectos más complejos de integración y visualización.
+
+
+## 📬 Contacto
+
+Miguel Ángel Sanabria  
+[LinkedIn](https://www.linkedin.com/in/miguel-angel-sanabria-613757219/)  
+amikel4321@gmail.com
