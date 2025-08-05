@@ -13,8 +13,8 @@ También refuerza las bases teóricas y técnicas adquiridas durante mi particip
 ## 🛠 Tecnologías utilizadas
 
 - PostgreSQL
--python
--Power BI
+- Phyton
+- Pwer BI
 
 ## 🚀 Objetivo
 
