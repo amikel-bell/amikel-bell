@@ -2,6 +2,8 @@
 
 Este repositorio contiene ejercicios  con **PostgreSQL**, orientados al análisis y gestión de datos. Forma parte de mi formación continua para complementar mi experiencia en análisis de datos con **Excel, Power BI y Python**.
 
+También refuerza las bases teóricas y técnicas adquiridas durante mi participación en un **proyecto de investigación con Machine Learning**, donde trabajé con grandes volúmenes de datos y modelos predictivos.
+
 ## 📁 Contenido
 
 - Scripts SQL para creación de tablas
