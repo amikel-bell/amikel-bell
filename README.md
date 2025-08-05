@@ -1,6 +1,6 @@
 # Prácticas con PostgreSQL
 
-Este repositorio contiene ejercicios prácticos con **PostgreSQL**, orientados al análisis y gestión de datos. Forma parte de mi formación continua para complementar mi experiencia en análisis de datos con **Excel, Power BI y Python**.
+Este repositorio contiene ejercicios  con **PostgreSQL**, orientados al análisis y gestión de datos. Forma parte de mi formación continua para complementar mi experiencia en análisis de datos con **Excel, Power BI y Python**.
 
 ## 📁 Contenido
 
